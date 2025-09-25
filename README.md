@@ -8,6 +8,15 @@ This test harness provides users with an automated way to validate their Java as
 
 ---
 
+## Examples ## 
+Shown below are some snippets of a program being tested. On the left is a valid test. The right image depicts a failed test. 
+<p align="center">
+   <img src="assets/TestPassed.png" width="400"/>
+   &nbsp;&nbsp;&nbsp;
+   <img src="assets/TestFailed.png" width="400"/>
+</p>
+
+
 ## 📋 Prerequisites
 
 ### Required Software
