@@ -1,0 +1,4 @@
+[even:  true] [odd: false] [prime:  true]
+[even: false] [odd:  true] [prime:  true]
+[even: false] [odd:  true] [prime:  true]
+false
